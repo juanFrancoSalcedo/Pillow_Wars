@@ -17,7 +17,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    motionNodeName: 
+    motionNodeName: PijamanArmature
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
@@ -33,7 +33,158 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Scene
+      takeName: Scene
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Humanoid
+        weight: 1
+      - path: PijamanArmature
+        weight: 1
+      - path: PijamanArmature/Spin1
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Neck
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Neck/Head
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Neck/Head/Head_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger1A_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger1A_L/Finger1B_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger1A_L/Finger1B_L/Finger1B_L_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger2A_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger2A_L/Finger2B_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger2A_L/Finger2B_L/Finger2B_L_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger3A_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger3A_L/Finger3B_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger3A_L/Finger3B_L/Finger3B_L_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger4A_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger4A_L/Finger4B_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger4A_L/Finger4B_L/Finger4B_L_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/ThumbA_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/ThumbA_L/ThumbB_L
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/ThumbA_L/ThumbB_L/ThumbB_L_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger1A_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger1A_R/Finger1B_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger1A_R/Finger1B_R/Finger1B_R_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger2A_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger2A_R/Finger2B_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger2A_R/Finger2B_R/Finger2B_R_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger3A_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger3A_R/Finger3B_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger3A_R/Finger3B_R/Finger3B_R_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger4A_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger4A_R/Finger4B_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger4A_R/Finger4B_R/Finger4B_R_end
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/ThumbA_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/ThumbA_R/ThumbB_R
+        weight: 1
+      - path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/ThumbA_R/ThumbB_R/ThumbB_R_end
+        weight: 1
+      - path: PijamanArmature/UpperLeg_L
+        weight: 1
+      - path: PijamanArmature/UpperLeg_L/Leg_L
+        weight: 1
+      - path: PijamanArmature/UpperLeg_L/Leg_L/FootRoot_L
+        weight: 1
+      - path: PijamanArmature/UpperLeg_L/Leg_L/FootRoot_L/Foot_L
+        weight: 1
+      - path: PijamanArmature/UpperLeg_L/Leg_L/FootRoot_L/Foot_L/Foot_L_end
+        weight: 1
+      - path: PijamanArmature/UpperLeg_L/Leg_L/Heel_L
+        weight: 1
+      - path: PijamanArmature/UpperLeg_L/Leg_L/Heel_L/Heel_L_end
+        weight: 1
+      - path: PijamanArmature/UpperLeg_R
+        weight: 1
+      - path: PijamanArmature/UpperLeg_R/Leg_R
+        weight: 1
+      - path: PijamanArmature/UpperLeg_R/Leg_R/FootRoot_R
+        weight: 1
+      - path: PijamanArmature/UpperLeg_R/Leg_R/FootRoot_R/Foot_R
+        weight: 1
+      - path: PijamanArmature/UpperLeg_R/Leg_R/FootRoot_R/Foot_R/Foot_R_end
+        weight: 1
+      - path: PijamanArmature/UpperLeg_R/Leg_R/Heel_R
+        weight: 1
+      - path: PijamanArmature/UpperLeg_R/Leg_R/Heel_R/Heel_R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -89,7 +240,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     globalScale: 1
-    rootMotionBoneName: 
+    rootMotionBoneName: PijamanArmature
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
@@ -97,7 +248,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 

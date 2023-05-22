@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PijamanAvatarUpper
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Humanoid
+    m_Weight: 1
+  - m_Path: PijamanArmature
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Neck
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Neck/Head
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger1A_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger1A_L/Finger1B_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger1A_L/Finger1B_L/Finger1B_L_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger2A_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger2A_L/Finger2B_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger2A_L/Finger2B_L/Finger2B_L_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger3A_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger3A_L/Finger3B_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger3A_L/Finger3B_L/Finger3B_L_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger4A_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger4A_L/Finger4B_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/Finger4A_L/Finger4B_L/Finger4B_L_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/ThumbA_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/ThumbA_L/ThumbB_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_L/UpperArm_L/Arm_L/Hand_L/ThumbA_L/ThumbB_L/ThumbB_L_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger1A_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger1A_R/Finger1B_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger1A_R/Finger1B_R/Finger1B_R_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger2A_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger2A_R/Finger2B_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger2A_R/Finger2B_R/Finger2B_R_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger3A_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger3A_R/Finger3B_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger3A_R/Finger3B_R/Finger3B_R_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger4A_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger4A_R/Finger4B_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/Finger4A_R/Finger4B_R/Finger4B_R_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/ThumbA_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/ThumbA_R/ThumbB_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/Spin1/Spin2/Spin3/Shoulder_R/UpperArm_R/Arm_R/Hand_R/ThumbA_R/ThumbB_R/ThumbB_R_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_L/Leg_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_L/Leg_L/FootRoot_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_L/Leg_L/FootRoot_L/Foot_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_L/Leg_L/FootRoot_L/Foot_L/Foot_L_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_L/Leg_L/Heel_L
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_L/Leg_L/Heel_L/Heel_L_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_R/Leg_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_R/Leg_R/FootRoot_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_R/Leg_R/FootRoot_R/Foot_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_R/Leg_R/FootRoot_R/Foot_R/Foot_R_end
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_R/Leg_R/Heel_R
+    m_Weight: 1
+  - m_Path: PijamanArmature/UpperLeg_R/Leg_R/Heel_R/Heel_R_end
+    m_Weight: 1
