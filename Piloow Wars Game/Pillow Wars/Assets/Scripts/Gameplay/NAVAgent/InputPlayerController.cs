@@ -38,7 +38,7 @@ namespace PillowWars
 
         public void LongAttack()
         {
-            print("TODO");
+            print("TODO longAttack");
         }
 
         private void OnEnable() => dragController.OnDragged += GetDragPosition;
