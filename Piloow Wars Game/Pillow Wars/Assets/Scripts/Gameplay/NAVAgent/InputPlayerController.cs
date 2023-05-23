@@ -19,8 +19,6 @@ namespace PillowWars
 
         private void Start()
         {
-            //TODOME separate this class InputPlayerController as Player PijamanInputPlayerController
-            //Tank you Command and abstract classes >:(
             basicAttack = new BasicAttackPijamanCommand();
         }
 
